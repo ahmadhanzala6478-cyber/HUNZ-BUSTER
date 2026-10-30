@@ -1,0 +1,12 @@
+
+{
+  "name": "hanz-buster",
+  "version": "1.0.0",
+  "description": "HANZ BUSTER Android Game",
+  "private": true,
+  "dependencies": {
+    "@capacitor/core": "6.2.1",
+    "@capacitor/android": "6.2.1",
+    "@capacitor/cli": "6.2.1"
+  }
+}
